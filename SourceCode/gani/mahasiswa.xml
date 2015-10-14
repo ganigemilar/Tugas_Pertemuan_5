@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<data>
+  <mahasiswa>
+    <nim>987</nim>
+    <nama>Dhanar Januardhi K</nama>
+    <alamat>Salatiga</alamat>
+    <prodi>Komsi</prodi>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>243</nim>
+    <nama>Adi Nurlemma</nama>
+    <alamat>Puworedjo</alamat>
+    <prodi>Komsi</prodi>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>254</nim>
+    <nama>Eko Priyanto</nama>
+    <alamat>Purworedjo</alamat>
+    <prodi>Komsi</prodi>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>765</nim>
+    <nama>Elsa</nama>
+    <alamat>Yogyakarta</alamat>
+    <prodi>Rekmed</prodi>
+  </mahasiswa>
+</data>
